@@ -3,8 +3,6 @@
 import java.util.Scanner;
 class Prime
 {
-
-
 	 public static void main(String[] args) 
 	 {
 		int i, count=0;
